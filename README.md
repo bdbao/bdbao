@@ -1,4 +1,4 @@
-<h1 align="center" alt="Coding Cat"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHltZG1iNXcwOHI2MGE5N2I3NXUzM2x0cHd1YTMyODBxdTdqYWlseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="65%"></h1>
+<h1 align="center" alt="Coding Cat"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHltZG1iNXcwOHI2MGE5N2I3NXUzM2x0cHd1YTMyODBxdTdqYWlseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="40%"></h1>
 
 <h1 align="center">Hi 👋, I'm Duy-Bao Bui</h1>
 <h3 align="center">A passionate developer from Vietnam</h3>
