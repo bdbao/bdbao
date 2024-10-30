@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 📝 I regularly write somethings on [buiduybao.com](buiduybao.com)
+- 📝 I regularly write somethings on [buiduybao.com](https://www.buiduybao.com)
 
 - 📫 How to reach me **baobuiduy.vn@gmail.com**
 
